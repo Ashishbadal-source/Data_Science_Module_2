@@ -1,0 +1,7 @@
+genre_SciFi,genre_Romance,genre_Comedy,genre_Thriller,mood_exciting,mood_funny,mood_romantic,tags_frequency,user_rating,Cluster
+1,0,0,0,1,0,0,50,4.5,1
+0,1,0,0,0,1,1,10,3.2,0
+0,0,1,0,1,1,0,30,4.0,0
+0,0,0,1,1,0,0,60,4.8,1
+1,0,0,0,1,0,0,45,4.6,1
+0,0,1,0,0,1,0,20,3.5,0
